@@ -9,13 +9,13 @@
     <img src="https://img.shields.io/badge/Leetcode-Krish%20Lakhani-orange?logo=leetcode&style=for-the-badge" />
   </a>
   <a href="https://www.codechef.com/users/krish_codes" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-kri5h_7-5B4638?logo=codechef&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/CodeChef-krish_codes-5B4638?logo=codechef&style=for-the-badge" />
   </a>
   <a href="https://codeforces.com/profile/KrisH_codes" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-krishlakhani-blue?logo=codeforces&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Codeforces-KrisH_codes-blue?logo=codeforces&style=for-the-badge" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/krish_codes/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-krishlakhani-darkgreen?logo=geeksforgeeks&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-krish_codes-darkgreen?logo=geeksforgeeks&style=for-the-badge" />
   </a>
 </p>
 
