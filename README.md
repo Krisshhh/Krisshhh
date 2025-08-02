@@ -8,10 +8,10 @@
   <a href="https://leetcode.com/u/_KRiSH_1/" target="_blank">
     <img src="https://img.shields.io/badge/Leetcode-Krish%20Lakhani-orange?logo=leetcode&style=for-the-badge" />
   </a>
-  <a href="[https://www.codechef.com/users/kri5h_7](https://www.codechef.com/users/krish_codes)" target="_blank">
+  <a href="https://www.codechef.com/users/krish_codes" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-kri5h_7-5B4638?logo=codechef&style=for-the-badge" />
   </a>
-  <a href="[https://codeforces.com/profile/krishlakhani](https://codeforces.com/profile/KrisH_codes)" target="_blank">
+  <a href="https://codeforces.com/profile/KrisH_codes" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-krishlakhani-blue?logo=codeforces&style=for-the-badge" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/krish_codes/" target="_blank">
