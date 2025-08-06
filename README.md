@@ -84,7 +84,7 @@
 
 - 👨‍💻 Software Development Intern at **NCode Solutions – GNFC IT Division**
 - 🚀 Finalist at **Smart India Hackathon 2024** – Backend Developer in a national-level project for **Madhya Pradesh Police**
-- 🔒 Built **Vaultify** – A secure file vault using **Node.js, Express, MongoDB, AWS S3, and encryption**
+- 🔒 Built **Vaultify** – A secure file vault using **Node.js, Express, MongoDB, AWS S3, and AES-256 encryption**
 - 💻 Developed real-time chat apps, user dashboards, and authentication systems with **JWT, Socket.IO**
 
 ---
