@@ -93,7 +93,7 @@
 
 - **Vaultify** – A secure cloud-based file vault with encryption and user dashboards  
 - **ChatSphere** – Real-time chat platform with authentication and Socket.IO  
-- **ApproveDesk** – A role-based application processing platform (MYSY-style)
+- **ApproveDesk** – A role-based admin approval based application processing platform 
 
 ---
 
