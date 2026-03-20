@@ -8,7 +8,7 @@
   <a href="https://leetcode.com/u/_KRiSH_1/" target="_blank">
     <img src="https://img.shields.io/badge/Leetcode-Krish%20Lakhani-orange?logo=leetcode&style=for-the-badge" />
   </a>
-  <a href="https://www.codechef.com/users/krish_codes" target="_blank">
+  <a href="[https://www.codechef.com/users/krish_codes](https://www.codechef.com/users/krish_codes_01)" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-krish_codes-5B4638?logo=codechef&style=for-the-badge" />
   </a>
   <a href="https://codeforces.com/profile/KrisH_codes" target="_blank">
