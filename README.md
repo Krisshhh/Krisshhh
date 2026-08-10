@@ -117,10 +117,10 @@ const krish = {
 
 | Project | Description | Tech | Link |
 |:--------|:------------|:-----|:-----|
-| **Episteme** | Chrome extension RAG pipeline that extracts an article's thesis via LLM, embeds it, and retrieves related articles via vector search to classify supports/contradicts/extends relationships | Chrome Extension (MV3) · Node.js · Supabase (pgvector) · LLM/RAG | [GitHub](https://github.com/Krisshhh) |
-| **Vaultify** | Secure, containerized file vault handling 500+ uploads with S3 integration, AES-256 encryption, JWT auth, CAPTCHA, and OTP verification | Node.js · Express.js · MongoDB · AWS S3/Lambda | [GitHub](https://github.com/Krisshhh) |
-| **PoliStore** *(SIH'24)* | Full-stack AR-based hardware inventory portal for Madhya Pradesh Police with QR/AR tag tracking and JWT-secured login | MERN Stack · PostgreSQL · Unity · AR | [GitHub](https://github.com/Krisshhh) |
-| **ChatSphere** | Real-time chat app supporting 100+ simultaneous users with JWT auth and MongoDB Atlas session management | Node.js · Express.js · MongoDB · Socket.IO | [GitHub](https://github.com/Krisshhh) |
+| **Episteme** | Chrome extension RAG pipeline that extracts an article's thesis via LLM, embeds it, and retrieves related articles via vector search to classify supports/contradicts/extends relationships | Chrome Extension (MV3) · Node.js · Supabase (pgvector) · LLM/RAG | [GitHub](https://github.com/Krisshhh/Episteme) |
+| **Vaultify** | Secure, containerized file vault handling 500+ uploads with S3 integration, AES-256 encryption, JWT auth, CAPTCHA, and OTP verification | Node.js · Express.js · MongoDB · AWS S3/Lambda | [GitHub](https://github.com/Krisshhh/Vaultify) |
+| **PoliStore** *(SIH'24)* | Full-stack AR-based hardware inventory portal for Madhya Pradesh Police with QR/AR tag tracking and JWT-secured login | MERN Stack · PostgreSQL · Unity · AR | [GitHub](https://github.com/Krisshhh/PoliStore) |
+| **ChatSphere** | Real-time chat app supporting 100+ simultaneous users with JWT auth and MongoDB Atlas session management | Node.js · Express.js · MongoDB · Socket.IO | [GitHub](https://github.com/Krisshhh/ChatSphere-app) |
 
 </div>
 
