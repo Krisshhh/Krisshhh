@@ -124,8 +124,6 @@ const krish = {
 
 </div>
 
-> Note: swap the placeholder links above for your actual repo URLs. They currently point to your profile since the exact repo names weren't available.
-
 ---
 
 ## Achievements
