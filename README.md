@@ -139,9 +139,6 @@ const krish = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krisshhh&background=0a0a0a&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&border=0e75b6" alt="Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Krisshhh&show_icons=true&bg_color=0a0a0a&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff&border_color=0e75b6&hide_border=false" alt="Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krisshhh&layout=compact&bg_color=0a0a0a&title_color=0e75b6&text_color=ffffff&border_color=0e75b6&hide_border=false" alt="Top Languages"/>
 </div>
 
 ---
