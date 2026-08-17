@@ -137,7 +137,7 @@ const krish = {
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krisshhh&background=0a0a0a&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&border=0e75b6" alt="Streak"/>
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
   <br/>
 </div>
 
