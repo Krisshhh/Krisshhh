@@ -29,7 +29,7 @@ const krish = {
   location: "Ahmedabad / Gandhinagar, India",
   education: "B.Tech, Computer Engineering, PDEU Gandhinagar (CGPA: 8.88/10)",
   experience: [
-    "Software Engineer Intern @ Crest Data",
+    "Software Engineer @ Crest Data",
     "Software Development Intern @ (n)Code Solutions, GNFC IT Division",
     "Web Development Intern @ Rbian Infotech"
   ],
